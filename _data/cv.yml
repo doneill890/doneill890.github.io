@@ -2,16 +2,16 @@
   type: map
   contents:
     - name: Full Name
-      value: Aidan O'Neill
+      value: Albert Einstein
     - name: Date of Birth
-      value: 19th November 1997
+      value: 14th March 1879
     - name: Languages
-      value: English, Spanish
+      value: English, German
 
 - title: Education
   type: time_table
   contents:
-    - title: M
+    - title: PhD
       institution: University of Zurich, Zurich, Switzerland
       year: 1905
       description:
